@@ -1,27 +1,27 @@
 SCM
-cqzhangxm
+zhangm
 老
-Kp@a_8A$u&12
+Kp@a_$u&12
 新
-Kp#aa9b$u*12
+Kp#aa9u*12
 
 VPN
 Kp#aa9b$u*12
 
 人力资源
-zhangxuemei.cq
-zHANG1202*
+zhangmei.cq
+zHANG1203*
 
 OA
 http://172.16.67.20/Portal/Login
 zhangxuemei 
-zHANG1202*
+zHANG1203*
 
 
 内网址：	http://10.191.106.39:9082/uac20/web3/jsp/login/login.jsp
 账号
 ZDGSZXM01
-5#&8q534$N@
+5#&534$N@
 http://10.191.132.248
 
 
